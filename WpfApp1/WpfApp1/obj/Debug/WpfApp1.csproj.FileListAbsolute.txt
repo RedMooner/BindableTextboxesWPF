@@ -1,0 +1,16 @@
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\AlexPC\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
